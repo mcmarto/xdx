@@ -7,7 +7,7 @@ It is also suited to connect to ON4KST chat.
 
 Quick keystroke reference
 =========================
-Main menu:
+## Main menu:
         Alt-P           Open Program menu
             Ctl-L       View connection log
             Ctl-Q       Exit Xdx with a close dialog
@@ -23,14 +23,14 @@ Main menu:
             Ctl-H       View this manual
             Ctl-A       About Xdx
 
-Function keys window:
+## Function keys window:
         F1 - F8         Saved F1 to F8 commands
 
-Highlights window:
+## Highlights window:
         Alt-1 - Alt-8   Switch between highlight entries
         Ctl-1 - Ctl-8   Activate highlights (toggles check boxes)
 
-General:
+## General:
         Alt-0           Return focus to the command entry window
 
 What is a DX Cluster?
